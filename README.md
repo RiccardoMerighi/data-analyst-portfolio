@@ -1,5 +1,7 @@
 # Analisi del Nuovo Sistema di Garanzia (NSG) [2017–2022]
-Analisi degli indicatori CORE e NOCORE dell'area distrettuale italiana per il periodo 2017–2022, con focus sull'Emilia-Romagna e confronto con regioni simili. Lo studio include modelli di regressione, analisi descrittiva e grafici di visualizzazione.
+Analisi degli indicatori CORE e NOCORE dell'area distrettuale italiana per il periodo 2017–2022, con focus sull'Emilia-Romagna e confronto con regioni simili. Lo studio include data cleaning, regressioni lineari e grafici comparativi.
+Dataset: Ministero della Salute.
+Obiettivo: valutare le differenze regionali e le performance del sistema distrettuale.”
 
 ## Obiettivi
 - Valutare l'andamento degli indicatori NSG a livello regionale.
