@@ -24,14 +24,10 @@ Analisi degli indicatori CORE e NOCORE dell'area distrettuale italiana per il pe
 - Alcune aree mostrano criticità specifiche
 - L'Emilia-Romagna risulta generalmente performante rispetto a regioni simili
 
-## Tecnologie
+## Software usati
 - Stata
 - Excel
-
-## Struttura del repository
-- `/data` → dataset puliti e pronti all'analisi
-- `/scripts` → codice Gretl/Stata o Python
-- `/reports` → report PDF e screenshot dashboard
-- `README.md` → descrizione del progetto
-
+  
+Confronto tra regioni simili all’Emilia-Romagna sul finanziamento sanitario pro-capite e sul punteggio distrettuale NSG nel periodo 2017–2022
 ![Dashboard NSG](./NSGDistrettuale_Finanziamento.png)
+
