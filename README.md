@@ -1,6 +1,3 @@
-# data-analyst-portfolio
-data analyst-portfolio
-
 # Analisi del Nuovo Sistema di Garanzia (NSG) [2017–2022]
 Analisi degli indicatori CORE e NOCORE dell'area distrettuale italiana per il periodo 2017–2022, con focus sull'Emilia-Romagna e confronto con regioni simili. Lo studio include modelli di regressione, analisi descrittiva e grafici di visualizzazione.
 
