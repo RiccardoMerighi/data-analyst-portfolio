@@ -31,6 +31,8 @@ Obiettivo: valutare le differenze regionali e le performance del sistema distret
 
 *Confronto tra regioni simili all’Emilia-Romagna (per finanzianmento sanitario) sul finanziamento sanitario pro-capite e sul punteggio distrettuale NSG (2017–2022)*
 
+/script
+
 ## Software usati
 - Stata
 - Excel
