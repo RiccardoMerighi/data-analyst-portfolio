@@ -22,7 +22,7 @@ Analisi degli indicatori CORE e NOCORE dell'area distrettuale italiana per il pe
 ## Risultati principali
 - Evidenziate differenze territoriali significative sugli indicatori CORE
 - Alcune aree mostrano criticità specifiche
-- L'Emilia-Romagna risulta generalmente performante rispetto a regioni simili
+- Questo risultato suggerisce che l’Emilia-Romagna ha un modello distrettuale più efficiente, con implicazioni per le regioni del Sud in termini di allocazione risorse
 
 ## Software usati
 - Stata
