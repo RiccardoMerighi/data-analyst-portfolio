@@ -29,4 +29,4 @@ Analisi degli indicatori CORE e NOCORE dell'area distrettuale italiana per il pe
 - Excel
   
 ![Dashboard NSG](./NSGDistrettuale_Finanziamento.png)
-+Confronto tra regioni simili all’Emilia-Romagna sul finanziamento sanitario pro-capite e sul punteggio distrettuale NSG nel periodo 2017–2022*
+*Confronto tra regioni simili all’Emilia-Romagna sul finanziamento sanitario pro-capite e sul punteggio distrettuale NSG nel periodo 2017–2022*
