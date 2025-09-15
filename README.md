@@ -34,6 +34,7 @@ Obiettivo: valutare le differenze regionali e le performance del sistema distret
 ## Software usati
 - Stata
 - Excel
+- Gretl
 
 ## Contatti
 - LinkedIn: [riccardomerighi](https://www.linkedin.com/in/riccardo-merighi-62150b340/)
