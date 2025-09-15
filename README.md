@@ -26,13 +26,14 @@ Obiettivo: valutare le differenze regionali e le performance del sistema distret
 - Alcune aree mostrano criticità specifiche
 - Questo risultato suggerisce che l’Emilia-Romagna ha un modello distrettuale più efficiente, con implicazioni per le regioni del Sud in termini di allocazione risorse
 
-## Software usati
-- Stata
-- Excel
-  
+ 
 ![Grafico andamento NSG Distrettuale](NSGDistrettuale_Finanziamento.png))
 
 *Confronto tra regioni simili all’Emilia-Romagna (per finanzianmento sanitario) sul finanziamento sanitario pro-capite e sul punteggio distrettuale NSG (2017–2022)*
+
+## Software usati
+- Stata
+- Excel
 
 ## Contatti
 - LinkedIn: [riccardomerighi](https://www.linkedin.com/in/riccardo-merighi-62150b340/)
