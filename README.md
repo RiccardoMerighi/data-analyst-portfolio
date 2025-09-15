@@ -34,4 +34,4 @@ Analisi degli indicatori CORE e NOCORE dell'area distrettuale italiana per il pe
 - `/reports` → report PDF e screenshot dashboard
 - `README.md` → descrizione del progetto
 
-![Dashboard NSG](./reports/screenshot_dashboard.png)
+![Dashboard NSG](./reports/NSGDistrettuale_Finanziamento.png)
