@@ -32,7 +32,7 @@ Obiettivo: valutare le differenze regionali e le performance del sistema distret
 *Confronto tra regioni simili all’Emilia-Romagna (per finanzianmento sanitario) sul finanziamento sanitario pro-capite e sul punteggio distrettuale NSG (2017–2022)*
 
 ## Script Stata
-Il file principale per l'analisi è [`NSG_Merighi206929.do`](./script/NSG_Merighi206929.do).  
+Il file .do che ho creato su Stata per l'analisi è [`NSG_Merighi206929.do`](./script/NSG_Merighi206929.do).  
 ## Software usati
 - Stata
 - Excel
